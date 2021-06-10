@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+	caption {
+		caption-side: top;
+		font-size: 30px;
+		font-weight: bold;
+		color: white;
+		font-family: monospace;
+	}
+	
+	.divcon {
+		position: relative;
+		width: 800px;
+		margin: 0 auto;
+		padding : 20px;
+		
+	} 
+
+	
+	
+	
